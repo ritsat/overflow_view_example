@@ -6,5 +6,6 @@ A Flutter project for overflow view indicator example.
 
 This project demonstrate how to displays children widgets in a line with an overflow indicator at the end if there is not enough space.
 
-For more details refer click [here](https://effortlesscodelearning.com/)
+For more details refer click [here](https://effortlesscodelearning.com/blog/overflow-indicator-in-flutter-mastering-ui-responsiveness/)
+
 
