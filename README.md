@@ -1,16 +1,10 @@
 # overflow_view_example
 
-A flutter project to demonstrate how to show overflow view.
+A Flutter project for overflow view indicator example.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project demonstrate how to displays children widgets in a line with an overflow indicator at the end if there is not enough space.
 
-A few resources to get you started if this is your first Flutter project:
+For more details refer click [here](https://effortlesscodelearning.com/)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
