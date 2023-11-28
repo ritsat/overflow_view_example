@@ -1,6 +1,6 @@
 # overflow_view_example
 
-A Flutter project for overflow view indicator example.
+An example for overflow view indicator in Flutter.
 
 ## Getting Started
 
